@@ -1,0 +1,31 @@
+D:\Code\C#\Control de personal\Control de personal\bin\Debug\net7.0\appsettings.Development.json
+D:\Code\C#\Control de personal\Control de personal\bin\Debug\net7.0\appsettings.json
+D:\Code\C#\Control de personal\Control de personal\bin\Debug\net7.0\Control de personal.staticwebassets.runtime.json
+D:\Code\C#\Control de personal\Control de personal\bin\Debug\net7.0\Control de personal.exe
+D:\Code\C#\Control de personal\Control de personal\bin\Debug\net7.0\Control de personal.deps.json
+D:\Code\C#\Control de personal\Control de personal\bin\Debug\net7.0\Control de personal.runtimeconfig.json
+D:\Code\C#\Control de personal\Control de personal\bin\Debug\net7.0\Control de personal.dll
+D:\Code\C#\Control de personal\Control de personal\bin\Debug\net7.0\Control de personal.pdb
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.csproj.AssemblyReference.cache
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.AssemblyInfoInputs.cache
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.AssemblyInfo.cs
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.csproj.CoreCompileInputs.cache
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.RazorAssemblyInfo.cache
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.RazorAssemblyInfo.cs
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\staticwebassets\msbuild.Control de personal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\staticwebassets\msbuild.build.Control de personal.props
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Control de personal.props
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Control de personal.props
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\staticwebassets.build.json
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\staticwebassets.development.json
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\scopedcss\bundle\Control de personal.styles.css
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\scopedcss\projectbundle\Control de personal.bundle.scp.css
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.dll
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\refint\Control de personal.dll
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.pdb
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\Control de personal.genruntimeconfig.cache
+D:\Code\C#\Control de personal\Control de personal\obj\Debug\net7.0\ref\Control de personal.dll
