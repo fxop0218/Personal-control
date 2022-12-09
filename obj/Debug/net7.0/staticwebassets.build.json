@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A6SpKHZLC833dd9P9FXeGv1x5Ok27pAVNx0+IbjAdDg=",
+  "Hash": "h7egc/LpDjItYUL3MIrkRJZAYWbKlpmkACuoDrhz90M=",
   "Source": "Control de personal",
   "BasePath": "_content/Control de personal",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
+    },
+    {
+      "Identity": "D:\\Code\\C#\\Control de personal\\Control de personal\\wwwroot\\css\\signin.css",
+      "SourceId": "Control de personal",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code\\C#\\Control de personal\\Control de personal\\wwwroot\\",
+      "BasePath": "_content/Control de personal",
+      "RelativePath": "css/signin.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\signin.css"
     },
     {
       "Identity": "D:\\Code\\C#\\Control de personal\\Control de personal\\wwwroot\\css\\site.css",

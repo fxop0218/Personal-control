@@ -32,6 +32,7 @@ namespace Control_de_personal.Models
         [Required]
         [StringLength(40, ErrorMessage = "Max length is 40")]
         public string email { get; set; }
+        public List<Schedules> schedules { get; set; }
         public int Admin { get; set; } = 0; // If this is a 100 the user is a admin, and hace diferents privs 
     }
 }

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
     },
     {
+      "Id": "D:\\Code\\C#\\Control de personal\\Control de personal\\wwwroot\\css\\signin.css",
+      "PackagePath": "staticwebassets\\css\\signin.css"
+    },
+    {
       "Id": "D:\\Code\\C#\\Control de personal\\Control de personal\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
