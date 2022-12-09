@@ -1,5 +1,4 @@
 ﻿using System.ComponentModel.DataAnnotations;
-
 namespace Control_de_personal.Models
 {
     public class Requests
@@ -11,5 +10,6 @@ namespace Control_de_personal.Models
         public string name { get; set; }
         [Required]
         public string email { get; set; }
+        public string DNI { get; set; }
     }
 }

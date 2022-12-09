@@ -55,7 +55,7 @@ namespace Control_de_personal.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,date,name,email")] Requests requests)
+        public async Task<IActionResult> Create([Bind("Id,date,name,email,DNI")] Requests requests)
         {
             if (ModelState.IsValid)
             {
@@ -87,7 +87,7 @@ namespace Control_de_personal.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,date,name,email")] Requests requests)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,date,name,email,DNI")] Requests requests)
         {
             if (id != requests.Id)
             {
